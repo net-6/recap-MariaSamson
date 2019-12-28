@@ -1,0 +1,11 @@
+E:\TemaClasses\recap-MariaSamson\Tema4\Tema4\bin\Debug\netcoreapp3.0\Tema4.exe
+E:\TemaClasses\recap-MariaSamson\Tema4\Tema4\bin\Debug\netcoreapp3.0\Tema4.deps.json
+E:\TemaClasses\recap-MariaSamson\Tema4\Tema4\bin\Debug\netcoreapp3.0\Tema4.runtimeconfig.json
+E:\TemaClasses\recap-MariaSamson\Tema4\Tema4\bin\Debug\netcoreapp3.0\Tema4.runtimeconfig.dev.json
+E:\TemaClasses\recap-MariaSamson\Tema4\Tema4\bin\Debug\netcoreapp3.0\Tema4.dll
+E:\TemaClasses\recap-MariaSamson\Tema4\Tema4\bin\Debug\netcoreapp3.0\Tema4.pdb
+E:\TemaClasses\recap-MariaSamson\Tema4\Tema4\obj\Debug\netcoreapp3.0\Tema4.csprojAssemblyReference.cache
+E:\TemaClasses\recap-MariaSamson\Tema4\Tema4\obj\Debug\netcoreapp3.0\Tema4.AssemblyInfoInputs.cache
+E:\TemaClasses\recap-MariaSamson\Tema4\Tema4\obj\Debug\netcoreapp3.0\Tema4.AssemblyInfo.cs
+E:\TemaClasses\recap-MariaSamson\Tema4\Tema4\obj\Debug\netcoreapp3.0\Tema4.dll
+E:\TemaClasses\recap-MariaSamson\Tema4\Tema4\obj\Debug\netcoreapp3.0\Tema4.pdb
